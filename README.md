@@ -10,7 +10,7 @@ Not required
 
 ## Usage
 
-Used purely for demonsration purposes. The below tasks have been completed:
+Used purely for demonsration purposes. The below points have been revised:
 
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
@@ -21,9 +21,6 @@ Used purely for demonsration purposes. The below tasks have been completed:
 ## Credits:
 
 N/A
-
-* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
 ## License
 

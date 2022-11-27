@@ -38,16 +38,6 @@ p {
 /* Header styling */
 
 
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
-
-
-
 
 .header div {
     padding-top: 15px;
@@ -56,7 +46,15 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
 /* Header text elemets styling */
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -71,8 +69,8 @@ p {
     margin-left: 25px;
 }
 
-/* Main image styling */
-.hero {
+/* Central image styling */
+.central-picture {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -82,46 +80,12 @@ p {
 }
 
 
-
+/* Central image block styling */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-lead,.benefit-brand, .benefit-cost  {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
- 
-
-/* Side panel text styling */
-
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-
- /* Side panel image styling */
-.benefit-lead img, .benefit-brand img,.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 
 /* Central section positioning and styling */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
@@ -145,6 +109,43 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Side panel styling */
+
+.benefit-lead,.benefit-brand, .benefit-cost  {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+ 
+
+/* Side panel text styling */
+
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+ /* Side panel image styling */
+.benefit-lead img, .benefit-brand img,.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* Side panel text styling */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+
 
 
 
